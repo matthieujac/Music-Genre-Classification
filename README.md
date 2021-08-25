@@ -1,5 +1,7 @@
 # Music-Genre-Classification-Notebooks
 
+This is a copy of of the repository originally found at : https://github.com/andbluedev/Music-Genre-Classification-Notebooks on which I worked alongside @andbluedev
+
 ## Context
 
 This project aims to predict the genre of a given song file. 
